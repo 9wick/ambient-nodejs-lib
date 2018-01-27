@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/TakehikoShimojima/ambient-nodejs-lib#readme",
   "dependencies": {
+    "path": "^0.12.7",
     "request": "^2.73.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
   }
 }
